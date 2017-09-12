@@ -1,9 +1,10 @@
-[![Build Status](https://travis-ci.org/Granze/react-starterify.svg?branch=master)](https://travis-ci.org/Granze/react-starterify)
+## Got the files from
+
+[Download React Starterify](https://github.com/Granze/react-starterify/releases/latest)
+
 
 
 ## Usage
-
-[Download React Starterify](https://github.com/Granze/react-starterify/releases/latest)
 
 __Install the dependencies:__
 
